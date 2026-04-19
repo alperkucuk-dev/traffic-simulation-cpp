@@ -1,12 +1,12 @@
-# 🚗 Traffic Simulation System (C++)
+# Traffic Simulation System (C++)
 
-## 📌 Overview
+## Overview
 
 This project is a traffic simulation system developed in C++. It models vehicles, roads, and intersections using object-oriented programming principles.
 
 ---
 
-## ⚙️ Features
+## Features
 
 * Object-oriented design (inheritance,polymorphism)
 * Vehicle simulation (cars, bicycles)
@@ -16,7 +16,7 @@ This project is a traffic simulation system developed in C++. It models vehicles
 
 ---
 
-## 🧱 Structure
+## Structure
 
 * `Fahrzeug` → base class
 * `PKW` → car
@@ -26,7 +26,7 @@ This project is a traffic simulation system developed in C++. It models vehicles
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 * C++
 * STL
