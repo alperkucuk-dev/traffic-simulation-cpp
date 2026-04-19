@@ -33,7 +33,7 @@ This project is a traffic simulation system developed in C++. It models vehicles
 
 ---
 
-## ▶️ Run
+## Run
 
 ```bash
 g++ *.cpp -o simulation
@@ -42,7 +42,7 @@ g++ *.cpp -o simulation
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 * OOP design in C++
 * Simulation logic
