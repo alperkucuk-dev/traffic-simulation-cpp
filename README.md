@@ -48,6 +48,6 @@ g++ *.cpp -o simulation
 * Simulation logic
 * Managing complex class structures
 
-## 🎯 Purpose
+## Purpose
 
 This project was developed as part of my learning process in C++ and object-oriented programming.
