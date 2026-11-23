@@ -8,7 +8,7 @@ This project is a traffic simulation system developed in C++. It models vehicles
 
 ## Features
 
-* Object-oriented design (inheritance,polymorphism)
+* Object-oriented design (inheritance, polymorphism)
 * Vehicle simulation (cars, bicycles)
 * Road and intersection system
 * Time-based simulation
@@ -24,6 +24,8 @@ This project is a traffic simulation system developed in C++. It models vehicles
 * `Weg` → road
 * `Kreuzung` → intersection
 
+`SimuClient` and `SimuClientSocket` were provided by the course for visualization and are not my own work.
+
 ---
 
 ## Technologies
@@ -34,6 +36,9 @@ This project is a traffic simulation system developed in C++. It models vehicles
 ---
 
 ## Run
+
+Requires the Boost library (Boost.Asio) and the course's visualization
+server (SimuServer) to display the simulation.
 
 ```bash
 g++ *.cpp -o simulation
@@ -50,4 +55,4 @@ g++ *.cpp -o simulation
 
 ## Purpose
 
-This project was developed as part of my learning process in C++ and object-oriented programming.
+This project was developed as part of the C++ programming lab (Praktikum) at RWTH Aachen University.
